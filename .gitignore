@@ -1,0 +1,16 @@
+# Node/Vite
+node_modules/
+dist/
+.vite/
+
+# Ambiente
+.env
+.env.*
+**/.env
+**/.env.*
+
+# Backend: evitar dados de teste
+backend/db.json
+
+# IDE
+.vscode/
